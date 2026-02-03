@@ -22,7 +22,7 @@
 #2: Save this script with the following file name: LastName_R Assignment 2.R
 
 #3: Download your collected survey data into excel.
-#4: Clean the data and save it as a csv file.
+#4: Clean the data and save it as a csv file. (We will do this as a class).
 #5: Run the following lines of code to load packages and the dataset into this R session.
   
 library(psych)
@@ -42,7 +42,7 @@ data
 
 --------------------------------------------------------------------------------.
 #7: Now let's see if the variable is normally distributed.
-  #7.1: Use the hist function to create a hsitogram of any numeric variables in your dataset.
+  #7.1: Use the hist function to create a histogram of any numeric variables in your dataset.
     #HINT# hist(data$[variable name]).
 
   #7.2:Run the skew and kurtosis function to check the skew and kurtosis of the variable. 
@@ -96,7 +96,7 @@ data
 #13:	What additional comments/questions do you have for me (Dr. Reynolds)?
   
   
-#14: Save this script with the following file name: LastName_R Assignment 1.R.
+#14: Save this script with the following file name: LastName_R Assignment 2.R.
   
 #15: Export this to your Downloads folders and submit this file to Moodle.
 --------------------------------------------------------------------------------.
