@@ -6,7 +6,7 @@
 #Purpose: practice interpreting and evaluating descriptive statistics using R.
   
 #Description.
-  #This assignment will focus on psychometrics (fancy word for measurements testing).
+  #This assignment will focus on using frequency analyses to describe the data.
   #Remember, this assignment should not take more than 30 to 60 minutes. 
   #If you have spent more than an hour on it, STOP. Email Victoria. 
   #If they are unavailable, come to my office hours or email me.
@@ -41,8 +41,8 @@ data
   #6.4: List below each variable with the type of each variable. 
 
 --------------------------------------------------------------------------------.
-#7: Now let's see if the variable is normally distributed.
-  #7.1: Use the hist function to create a histogram of any numeric variables in your dataset.
+#7: Now let's see if the variables are normally distributed. For this assignment, pick one numeric variable.
+  #7.1: Use the hist function to create a histogram of your selected variable in your dataset.
     #HINT# hist(data$[variable name]).
 
   #7.2:Run the skew and kurtosis function to check the skew and kurtosis of the variable. 
