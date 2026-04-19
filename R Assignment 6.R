@@ -121,11 +121,12 @@ data
   #9.1: What is your hypothesis?
 
 
-  #9.2: What is your analytic plan? e.g., what statistical test would you need to run to test your hypothesis?
+  #9.2: What is your analytic plan? i.e., what statistical test(s) would you need to run to test your hypothesis?
 
 
 
-  #9.3: What is your R code to conduct your identified analytic plan?
+  #9.3: What would your R code be to conduct your identified analytic plan?
+    #if you have the data, feel free to run your code :)
 
 
 
